@@ -1,9 +1,9 @@
-h1 {font: Quicksand;
+h1 {
+    font-family: Quicksand;
+
+
+    
 }
-.css-selector {
-  font-family: 'Quicksand', serif;
-}
-}
-.aligncenter {
-    float: left;
-}
+
+
+
