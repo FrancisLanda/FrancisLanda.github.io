@@ -1,3 +1,7 @@
 h1 {font: Gill Sans;
 }
 h1 {background-color: Aqua;}
+#spinner {
+  background: url(loading.gif) no-repeat 5px 3px;
+  padding-left: 20px;
+}
