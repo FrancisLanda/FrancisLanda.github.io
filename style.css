@@ -3,3 +3,7 @@ h1 {font: Quicksand;
 .css-selector {
   font-family: 'Quicksand', serif;
 }
+}
+.aligncenter {
+    float: left;
+}
