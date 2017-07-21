@@ -28,4 +28,8 @@ a:hover, a:active {
     color: black;
 }
 
+.centerstuff{
+    width='100%' display='flex' justify-content='center'>
+}
+
 
