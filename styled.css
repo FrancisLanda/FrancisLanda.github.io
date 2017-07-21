@@ -6,3 +6,16 @@ h1 {
 p {
     font-family: Pacifico;
 }
+a:link, a:visited {
+    background-color: black;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: white;
+    color: black;
+}
