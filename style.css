@@ -34,3 +34,6 @@ a:hover, a:active {
     justify-content:'center';
     text-align: 'center';
 }
+.item {
+  align-self: center;
+}
