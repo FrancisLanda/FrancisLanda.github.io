@@ -35,5 +35,9 @@ a:hover, a:active {
     text-align: 'center';
 }
 .container {
-  justify-content: center;
+    text-align: center;
+}
+
+.containerItem {
+    display: inline-block;
 }
