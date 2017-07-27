@@ -35,5 +35,5 @@ a:hover, a:active {
     text-align: 'center';
 }
 .container {
-  align-content: center;
+  justify-content: center;
 }
