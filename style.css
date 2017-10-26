@@ -55,6 +55,7 @@ h5 {text-align: center;
 
 hr {
     height: 0;
+  color: #000;
     max-height: 0;
  }
 
@@ -64,6 +65,7 @@ hr {
     font-size: 1px;
     line-height: 0;
     clear: both;
+    color: #000
  }
 
  hr {
@@ -78,7 +80,6 @@ hr {
     line-height: 0;
     clear: both;
     border: none;
-    border-top: 1px solid #aaaaaa;
-    border-bottom: 1px solid #ffffff;
+    color: #000
  }
  
