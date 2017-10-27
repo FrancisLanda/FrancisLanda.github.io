@@ -61,5 +61,7 @@ hr {
  img {
      width: 100px;
      height: 10%;
+     display: block;
+     margin: auto;
  }
  
