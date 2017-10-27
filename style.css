@@ -23,7 +23,8 @@ body {
     background-color: lightblue;
 }
 
-h5 {text-align: center;
+h5 {
+    text-align: center;
 }
 
 hr {
@@ -65,3 +66,7 @@ hr {
      margin: auto;
  }
  
+ h6{
+     text-align: center;
+     font-family: Lato;
+ }
