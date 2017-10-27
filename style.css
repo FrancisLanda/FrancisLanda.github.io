@@ -14,33 +14,6 @@ h3 {
     font-family: Quicksand;
     background-color: rgb(215, 217, 221);
 }
-a:link, a:visited {
-    background-color: black;
-    color: white;
-    padding: 14px 25px;
-    text-align: center; 
-    text-decoration: none;
-    display: inline-block;
-}
-
-a:hover, a:active {
-    background-color: white;
-    color: black;
-}
-
-.centerstuff{
-    width:'100%'; 
-    display:'flex';
-    justify-content:'center';
-    text-align: 'center';
-}
-.container {
-    text-align: center;
-}
-
-.containerItem {
-    display: inline-block;
-}
 
 p {font-family: 'Oswald', sans-serif;
     text-align: 'center';
