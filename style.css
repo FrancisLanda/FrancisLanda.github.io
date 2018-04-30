@@ -71,3 +71,7 @@ hr {
      font-family: Lato;
  }
 
+ a:link {
+    background-color: orange;
+ }
+
