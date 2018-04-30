@@ -10,3 +10,7 @@ h1 {
 p {
     font-family: Quicksand; 
 }
+
+img {
+    border-radius: 8px;
+}
