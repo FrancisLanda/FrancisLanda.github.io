@@ -7,3 +7,17 @@ h1{
     font-family: Quicksand;
 
 }
+
+.thumbnail:hover {
+    position: relative;
+    top:-25px;
+    left:-35px;
+    width:1000px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+
+p {
+    font-family: Quicksand;
+}
