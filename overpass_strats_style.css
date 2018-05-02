@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+    font-family: Quicksand;
+}
+
+p {
+    font-family: Quicksand; 
+}
+
+img {
+    border-radius: 8px;
+}
+
+.thumbnail:hover {
+    position: relative;
+    top:-25px;
+    left:-35px;
+    width:1000px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
